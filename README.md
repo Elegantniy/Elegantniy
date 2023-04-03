@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Elegantniy
-- 🌱 I am currently learning at the IT academy as a full-stack developer
+- 🌱 I am currently learning at the IT School GOIT as a full-stack developer
 - 📫 How to reach me https://t.me/Elegantniy or www.linkedin.com/in/elegantniy
